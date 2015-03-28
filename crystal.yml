@@ -1,0 +1,8 @@
+name: no-license
+version: 0.1.0
+description: No License generator
+
+gen:
+  file:
+    license:
+      dest: LICENSE
