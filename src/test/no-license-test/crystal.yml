@@ -1,0 +1,9 @@
+name: no-license-test
+version: 0.1.0
+description: no license test
+
+copyright: 2015 Example, Inc.
+
+generators:
+  no-license:
+    version: latest
